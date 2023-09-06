@@ -9,3 +9,7 @@
 
 # Six Key Learnings from Customer Lifecycle Analytics
 [This article](https://medium.com/towards-data-science/six-key-learnings-from-customer-lifecycle-analytics-3d2fa335f3d6) outlines six key learnings from customer lifecycle analytics to identify the key touchpoints as well as how the target audience take certain actions overall as well as at the key points in their end-to-end customer lifecycle.
+
+# Let's Connect
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weiweihu)
+
